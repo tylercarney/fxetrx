@@ -1,4 +1,4 @@
-# fxetrx Service Management
+# fxetrx - Fixes things and learns new tricks - very work in progres. Don't expect much, if anything, to work yet.
 
 ## Overview
 fxetrx is a fully portable service that primarily compiles into optimized native code for the target operating system. However, it also supports running in an interpreted Python mode if configured to do so in the build system. This ensures flexibility for debugging and development while maintaining performance benefits for production environments.
