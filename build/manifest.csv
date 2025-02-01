@@ -1,0 +1,18 @@
+file_name,sha256_hash,description
+./build/build.conf, ,Build configuration file
+./build/build.py, ,Script for building the service
+./build/venv_setup.py, ,Script for setting up virtual environments
+./build/manifest.csv, ,Manifest file listing all tracked files
+./build/temp_dir/, ,Temporary directory for intermediate build artifacts
+./deployment/, ,Deployment-related files
+./install.py, ,Main installation script
+./service/install_service.py, ,Handles service installation
+./service/restart.py, ,Restarts the service
+./service/start.py, ,Starts the service
+./service/status.py, ,Checks service status
+./service/stop.py, ,Stops the service
+./src/dependency_manager.py, ,Manages dependencies
+./src/plugin_venv_setup.py, ,Sets up virtual environments for plugins
+./src/service_template.py, ,Template for service configuration
+./tests/, ,Contains test scripts and cases
+./uninstall.py, ,Uninstalls the service
